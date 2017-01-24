@@ -1,0 +1,13 @@
+# http://postolenko.github.io/bukovel/index.html
+# http://postolenko.github.io/bukovel/about.html
+# http://postolenko.github.io/bukovel/article_page.html
+# http://postolenko.github.io/bukovel/articles.html
+# http://postolenko.github.io/bukovel/contacts.html
+# http://postolenko.github.io/bukovel/object_podrob_info.html
+# http://postolenko.github.io/bukovel/portfolio.html
+# http://postolenko.github.io/bukovel/process.html
+# http://postolenko.github.io/bukovel/projects.html
+# http://postolenko.github.io/bukovel/project_info.html
+# http://postolenko.github.io/bukovel/services.html
+# http://postolenko.github.io/bukovel/services_project.html
+# http://postolenko.github.io/bukovel/workers.html
